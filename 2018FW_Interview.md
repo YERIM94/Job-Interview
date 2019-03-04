@@ -42,7 +42,8 @@
   <br/></br>
 ### H대기업계열사(채용형인턴) | 내비SW개발
 * 기술
-  * 형상관리시스템 / 버전관리시스템의 차이
+  * 형상관리시스템 / 버전관리시스템의 차이<br/>
+   ㄴ https://somingoose.tistory.com/100
   * Git외에 svn이나 등등 다른 프로그램 써본 적 있는지
   * 왜 Github를 많이 쓴다고 생각하는지<br/>
    ㄴ http://www.itworld.co.kr/news/109976?page=0,0
